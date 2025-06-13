@@ -67,17 +67,17 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-06-13 18:06:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-06-13 18:04:22 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-13 18:06:49 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
